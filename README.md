@@ -1,4 +1,4 @@
-<h1> In progress </h1>
+<h1> **In progress** </h1>
 
 ## Welcome to GitHub Pages
 
